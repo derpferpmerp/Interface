@@ -1,0 +1,23 @@
+[[package]]
+category = "main"
+description = "ANSII Color formatting for output in terminal."
+name = "termcolor"
+optional = false
+python-versions = "*"
+version = "1.1.0"
+
+[[package]]
+category = "main"
+description = "Fast, Extensible Progress Meter"
+name = "tqdm"
+optional = false
+python-versions = ">=2.6, !=3.0.*, !=3.1.*"
+version = "4.42.1"
+
+[metadata]
+content-hash = "f287d5dd73eaf4502412bb60bb572ff0a1e0bd341969a734ece1a0f43071f26c"
+python-versions = "^2.7"
+
+[metadata.hashes]
+termcolor = ["1d6d69ce66211143803fbc56652b41d73b4a400a2891d7bf7a1cdf4c02de613b"]
+tqdm = ["251ee8440dbda126b8dfa8a7c028eb3f13704898caaef7caa699b35e119301e2", "fe231261cfcbc6f4a99165455f8f6b9ef4e1032a6e29bccf168b4bf42012f09c"]
