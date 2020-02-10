@@ -1,2 +1,2 @@
 language = "python"
-run = "chmod +x main.py ./main.py"
+run = "python ./main.py"
