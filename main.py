@@ -105,6 +105,9 @@ def ask():
 
 
 def execute():
+    print(' --scan: <CH>')
+    print(' --probe: <BSSID> <SP> <EP>')
+    print(' --crack: <BSSID> <OpenChannel>')
     ask()
 
 
